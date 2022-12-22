@@ -9,6 +9,6 @@ This project implement an asynchronous concept that uses Web API and user data t
 * Run `npm run start`
 * Open browser and run port [8080](http://localhost:8080)
 
-## Overview
+## Screenshot
 Temp in Osborn, Missouri, US
 ![ScreenShot](./screencapture-localhost-8080-2022-12-22-22_33_44.png)
